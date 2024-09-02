@@ -1,0 +1,50 @@
+12:06:51.696 [main] INFO  testCases.TC01_AccRegistrationTest - *************Application Home Page Accessed  ****************
+12:06:51.895 [main] INFO  testCases.TC01_AccRegistrationTest - ----My Account Clicked---------
+12:06:52.673 [main] INFO  testCases.TC01_AccRegistrationTest - ----Register Clicked---------
+12:06:59.549 [main] INFO  testCases.TC01_AccRegistrationTest - ----Verifying Expected message ---------
+12:06:59.674 [main] INFO  testCases.TC01_AccRegistrationTest - *************Application URL Closed  ****************
+12:06:59.679 [main] INFO  testCases.TC02_LoginTest - *************Properties File Loaded  ****************
+12:07:01.083 [main] INFO  testCases.TC02_LoginTest - *************Application URL Launched ****************
+12:07:01.150 [main] INFO  testCases.TC02_LoginTest - *************Application Window Maximized  ****************
+12:07:01.153 [main] INFO  testCases.TC02_LoginTest - ************Starting TC02_LoginTest**************
+12:07:01.153 [main] INFO  testCases.TC02_LoginTest - *************Application Home Page Accessed  ****************
+12:07:01.274 [main] INFO  testCases.TC02_LoginTest - *************Click MyAccount link  ****************
+12:07:01.528 [main] INFO  testCases.TC02_LoginTest - *************Click on Login link  ****************
+12:07:01.660 [main] INFO  testCases.TC02_LoginTest - *************Email entered on Login page   ****************
+12:07:01.736 [main] INFO  testCases.TC02_LoginTest - *************password entered on Login page   ****************
+12:07:02.378 [main] INFO  testCases.TC02_LoginTest - ************End  TC02_LoginTest**************
+12:07:02.476 [main] INFO  testCases.TC02_LoginTest - *************Application URL Closed  ****************
+12:09:58.381 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Eclipse_Workspace\OpenCartV1.0\Grid-docker.xml
+
+12:09:58.686 [main] INFO  testCases.TC01_AccRegistrationTest - *************Properties File Loaded  ****************
+12:10:01.674 [main] INFO  testCases.TC01_AccRegistrationTest - *************Application URL Launched ****************
+12:10:01.737 [main] INFO  testCases.TC01_AccRegistrationTest - *************Application Window Maximized  ****************
+12:10:01.769 [main] INFO  testCases.TC01_AccRegistrationTest - *********TC01_AccRegistrationTest***********
+12:10:01.811 [main] INFO  testCases.TC01_AccRegistrationTest - *************Application Home Page Accessed  ****************
+12:10:01.948 [main] INFO  testCases.TC01_AccRegistrationTest - ----My Account Clicked---------
+12:10:03.332 [main] INFO  testCases.TC01_AccRegistrationTest - ----Register Clicked---------
+12:10:07.640 [main] INFO  testCases.TC01_AccRegistrationTest - ----Verifying Expected message ---------
+12:10:07.753 [main] INFO  testCases.TC01_AccRegistrationTest - *************Application URL Closed  ****************
+12:10:07.755 [main] INFO  testCases.TC02_LoginTest - *************Properties File Loaded  ****************
+12:10:08.989 [main] INFO  testCases.TC02_LoginTest - *************Application URL Launched ****************
+12:10:09.023 [main] INFO  testCases.TC02_LoginTest - *************Application Window Maximized  ****************
+12:10:09.026 [main] INFO  testCases.TC02_LoginTest - ************Starting TC02_LoginTest**************
+12:10:09.027 [main] INFO  testCases.TC02_LoginTest - *************Application Home Page Accessed  ****************
+12:10:09.185 [main] INFO  testCases.TC02_LoginTest - *************Click MyAccount link  ****************
+12:10:09.463 [main] INFO  testCases.TC02_LoginTest - *************Click on Login link  ****************
+12:10:09.607 [main] INFO  testCases.TC02_LoginTest - *************Email entered on Login page   ****************
+12:10:09.684 [main] INFO  testCases.TC02_LoginTest - *************password entered on Login page   ****************
+12:10:10.270 [main] INFO  testCases.TC02_LoginTest - ************End  TC02_LoginTest**************
+12:10:10.358 [main] INFO  testCases.TC02_LoginTest - *************Application URL Closed  ****************
+12:10:38.522 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Eclipse_Workspace\OpenCartV1.0\Grid-docker.xml
+
+12:10:38.827 [main] INFO  testCases.TC01_AccRegistrationTest - *************Properties File Loaded  ****************
+12:10:44.660 [main] INFO  testCases.TC01_AccRegistrationTest - *************Application URL Launched ****************
+12:10:45.063 [main] INFO  testCases.TC01_AccRegistrationTest - *************Application Window Maximized  ****************
+12:10:45.093 [main] INFO  testCases.TC01_AccRegistrationTest - *********TC01_AccRegistrationTest***********
+12:10:45.100 [main] INFO  testCases.TC01_AccRegistrationTest - *************Application Home Page Accessed  ****************
+12:10:45.401 [main] INFO  testCases.TC01_AccRegistrationTest - ----My Account Clicked---------
+12:10:46.121 [main] INFO  testCases.TC01_AccRegistrationTest - ----Register Clicked---------
+12:10:50.556 [main] INFO  testCases.TC01_AccRegistrationTest - ----Verifying Expected message ---------

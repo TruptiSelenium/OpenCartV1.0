@@ -1,0 +1,53 @@
+11:44:35.387 [main] INFO  testCases.TC01_AccRegistrationTest - *********TC01_AccRegistrationTest***********
+11:44:35.428 [main] INFO  testCases.TC01_AccRegistrationTest - *************Application Home Page Accessed  ****************
+11:44:36.469 [main] INFO  testCases.TC01_AccRegistrationTest - ----My Account Clicked---------
+11:44:38.010 [main] INFO  testCases.TC01_AccRegistrationTest - ----Register Clicked---------
+11:44:42.982 [main] INFO  testCases.TC01_AccRegistrationTest - ----Verifying Expected message ---------
+11:44:43.296 [main] INFO  testCases.TC01_AccRegistrationTest - *************Application URL Closed  ****************
+11:44:43.300 [main] INFO  testCases.TC02_LoginTest - *************Properties File Loaded  ****************
+11:44:51.092 [main] INFO  testCases.TC02_LoginTest - *************Application URL Launched ****************
+11:44:51.168 [main] INFO  testCases.TC02_LoginTest - *************Application Window Maximized  ****************
+11:44:51.176 [main] INFO  testCases.TC02_LoginTest - ************Starting TC02_LoginTest**************
+11:44:51.177 [main] INFO  testCases.TC02_LoginTest - *************Application Home Page Accessed  ****************
+11:44:51.283 [main] INFO  testCases.TC02_LoginTest - *************Click MyAccount link  ****************
+11:44:51.538 [main] INFO  testCases.TC02_LoginTest - *************Click on Login link  ****************
+11:44:51.682 [main] INFO  testCases.TC02_LoginTest - *************Email entered on Login page   ****************
+11:44:51.757 [main] INFO  testCases.TC02_LoginTest - *************password entered on Login page   ****************
+11:44:52.999 [main] INFO  testCases.TC02_LoginTest - ************End  TC02_LoginTest**************
+11:44:53.200 [main] INFO  testCases.TC02_LoginTest - *************Application URL Closed  ****************
+14:58:03.386 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Eclipse_Workspace\OpenCartV1.0\master.xml
+
+13:31:55.822 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Eclipse_Workspace\OpenCartV1.0\master.xml
+
+13:38:47.394 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Eclipse_Workspace\OpenCartV1.0\master.xml
+
+13:38:48.109 [main] INFO  testCases.TC01_AccRegistrationTest - *************Properties File Loaded  ****************
+13:38:58.094 [main] INFO  testCases.TC01_AccRegistrationTest - *************Application URL Launched ****************
+13:38:58.148 [main] INFO  testCases.TC01_AccRegistrationTest - *************Application Window Maximized  ****************
+13:38:58.193 [main] INFO  testCases.TC01_AccRegistrationTest - *********TC01_AccRegistrationTest***********
+13:38:58.242 [main] INFO  testCases.TC01_AccRegistrationTest - *************Application Home Page Accessed  ****************
+13:39:01.480 [main] INFO  testCases.TC01_AccRegistrationTest - ----My Account Clicked---------
+13:39:02.281 [main] INFO  testCases.TC01_AccRegistrationTest - ----Register Clicked---------
+13:39:07.177 [main] INFO  testCases.TC01_AccRegistrationTest - ----Verifying Expected message ---------
+13:39:07.453 [main] INFO  testCases.TC01_AccRegistrationTest - *************Application URL Closed  ****************
+13:39:07.455 [main] INFO  testCases.TC02_LoginTest - *************Properties File Loaded  ****************
+13:39:09.891 [main] INFO  testCases.TC02_LoginTest - *************Application URL Launched ****************
+13:39:09.916 [main] INFO  testCases.TC02_LoginTest - *************Application Window Maximized  ****************
+13:39:09.916 [main] INFO  testCases.TC02_LoginTest - ************Starting TC02_LoginTest**************
+13:39:09.916 [main] INFO  testCases.TC02_LoginTest - *************Application Home Page Accessed  ****************
+13:39:11.024 [main] INFO  testCases.TC02_LoginTest - *************Click MyAccount link  ****************
+13:39:11.287 [main] INFO  testCases.TC02_LoginTest - *************Click on Login link  ****************
+13:39:11.490 [main] INFO  testCases.TC02_LoginTest - *************Email entered on Login page   ****************
+13:39:11.561 [main] INFO  testCases.TC02_LoginTest - *************password entered on Login page   ****************
+13:39:12.146 [main] INFO  testCases.TC02_LoginTest - ************End  TC02_LoginTest**************
+13:39:12.403 [main] INFO  testCases.TC02_LoginTest - *************Application URL Closed  ****************
+13:45:12.932 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Eclipse_Workspace\OpenCartV1.0\master.xml
+
+13:45:13.225 [main] INFO  testCases.TC01_AccRegistrationTest - *************Properties File Loaded  ****************
+13:45:21.077 [main] INFO  testCases.TC01_AccRegistrationTest - *************Application URL Launched ****************
+13:45:21.169 [main] INFO  testCases.TC01_AccRegistrationTest - *************Application Window Maximized  ****************
+13:45:21.216 [main] INFO  testCases.TC01_AccRegistrationTest - *********TC01_AccRegistrationTest***********
